@@ -1,10 +1,10 @@
 # web
-Gradle + SpringBoot + JPA(+QueryDSL) 프로젝트 샘플
+Gradle + SpringBoot + JPA 프로젝트 USER CRUD
 
-# 버전 정보(2020.03.10 기준)
+# 버전 정보(2021.04.09 기준)
 * Gradle 6.2.2
 * SpringBoot 2.2.5.RELEASE
-* QueryDSL 4.2.2
+* QueryDSL 4.2.2 (임시)
 * H2 DB 1.4.200
 * HikariCP 3.4.2
 * lombok 1.18.12
